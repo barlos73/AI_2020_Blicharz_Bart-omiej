@@ -1,3 +1,4 @@
 Strona z połączenia front i back-endu
-Będzie logowanie jako admin, użytkownik oraz gość.
-Administrator będzie miał wszystkie prawa, użytkownik do przeglądania oraz stworzenia własnego fomratu. A gość to tylko przeglądanie bez możliwości modyfikacji.
+24.03.2020
+Początek zbudowania strony: strona główna z 3 podstronami, menu do przełączania się między podstronami.
+Na stronie głównej będą informacje na temat projektu.
