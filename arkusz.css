@@ -1,0 +1,67 @@
+* {
+	box-sizing: border-box;
+}
+body,html{
+	margin:auto;
+	padding:auto;
+	height:100%;
+	width:100%;
+	color:white;	
+}
+#top{
+	background: #dd1515;
+	min-height:10%;
+	float:left;
+	width:100%;
+}
+#top .logo{
+	padding:30px 0;	
+}
+#top .logo a{
+	display:inline-block;
+}
+#top h1{
+	text-align:center;
+}
+#top img{
+	width:80px;
+	float:left;
+}
+#srodek{   
+	float:left;
+	width:100%;
+	min-height:75%;
+	padding-left:15px;
+	background-image:url(tlo.png);
+}
+#srodek h1,h3{
+	padding:15px 0;
+}
+#stopka {
+	text-align: center;
+	background-image:url(stopkatlo.jpg);
+	min-height:15%;
+	clear:both;
+	padding:15px;
+}
+ol{
+	border: 2px solid none;
+	padding:15px;
+	width:40%;
+	text-decoration:white;
+	font-size:18px;
+}
+
+a:visited{
+	color:white;
+}
+a{
+	text-decoration:none;
+}
+
+@media screen and (max-width: 800px) {
+  #header, #srodek, #stopka, #top{   
+    width: 100%;
+  }
+}
+
