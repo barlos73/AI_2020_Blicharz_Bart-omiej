@@ -44,6 +44,14 @@ body,html{
 	clear:both;
 	padding:15px;
 }
+#lewa{
+	float:left;
+	width:50%;
+}
+#prawa{
+	float:right;
+	width:50%;
+	}
 ol{
 	border: 2px solid none;
 	padding:15px;
